@@ -1,0 +1,14 @@
+{
+    "name": "musitorio-polygondwanaland",
+    "version": "0.0.1",
+    "factorio_version": "1.1",
+    "title": "Polygondwanaland Music Pack",
+    "author": "archie",
+    "contact": "blank",
+    "description": "Test mod that uses Musitorio to add the tracks from KGatLW's Polygondwanaland",
+    "dependencies":
+    [
+        "base",
+        "libmusitorio"
+    ]
+}
